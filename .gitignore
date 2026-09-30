@@ -1,0 +1,23 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+
+# Android Studio
+.idea/
+*.iml
+.externalNativeBuild/
+.cxx/
+
+# Local configuration
+local.properties
+
+# OS
+.DS_Store
+
+# Generated APKs
+*.apk
+*.aab
+
+# Temporary backup
+MainActivity.kt.backup
